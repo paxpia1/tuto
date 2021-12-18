@@ -2,3 +2,5 @@
 This is a confrim test
 추가 명령을 넣음
 commit 인덱스의 상태를 기록
+pull 원격 저장소의 내용을 가져오기
+
